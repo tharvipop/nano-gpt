@@ -1,0 +1,7 @@
+lightning
+numpy
+pandas
+pytorch
+scikit-learn
+sentencepiece
+
